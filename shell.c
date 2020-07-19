@@ -184,4 +184,5 @@ main ()
       else
 	execute (args);
     }
+printf("linuxminishell");
 }
